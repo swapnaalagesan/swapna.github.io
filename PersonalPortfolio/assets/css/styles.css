@@ -1,6 +1,9 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
+span{
+  color:aquamarine;
+}
 *{
   padding: 0;
   margin: 0;
@@ -29,7 +32,7 @@
   margin-bottom: -5px;
 }
 .skills_head h2 span{
-  color: #e74d06;
+  color: #06bee7;
 }
 .skills_main{
   width: 100%;
@@ -59,7 +62,7 @@
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: #e74d06;
+  background-color: #06b6e7;
   border-radius: 25px;
 }
 .skill_bar .bar .html{
